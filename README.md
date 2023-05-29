@@ -2,7 +2,7 @@
 
 Meu nome é Allan.
 
-# - Atualmente estou estudando a linguagem java script nos cursos Alura.
+# - Atualmente estou estudando a linguagem java script nos cursos [Alura](https://www.alura.com.br/).
 
 - Entre em contato comigo:
 # - Discord = Allan '-'#2332
