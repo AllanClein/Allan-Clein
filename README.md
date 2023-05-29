@@ -7,5 +7,4 @@ Meu nome é Allan.
 - Entre em contato comigo:
 # - Discord = Allan '-'#2332
 # - Email = allan.clein2@gmail.com
-
 ![](https://tenor.com/pt-BR/view/duck-gif-26090688)
