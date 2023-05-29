@@ -7,3 +7,5 @@ Meu nome é Allan.
 - Entre em contato comigo:
 # - Discord = Allan '-'#2332
 # - Email = allan.clein2@gmail.com
+
+https://www.printmag.com/design-news/someone-just-bought-a-gif-for-half-a-million-dollars/
